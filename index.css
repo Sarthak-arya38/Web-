@@ -1,0 +1,42 @@
+*{
+    background-color: rgb(6, 8, 8);
+    margin: auto;
+}
+h1{
+    background-color: rgb(160, 236, 240);
+    color: rgb(226, 40, 40);
+    border: 0;
+    padding:0%;
+    height: 60px;
+}
+#box{
+    border: 20%;
+
+}
+div{
+    width: 300px;
+    color: rgb(64, 64, 206);
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    border-color: sienna;
+    border-style: double solid;
+    border-width: 5px;
+    
+}
+
+img{ 
+    height: 300px;
+    border-radius: 50%;
+    width: 300px;
+    
+}
+p{
+    background-color: blue; 
+    height: 200px;
+    width: 300px;
+
+    
+}
